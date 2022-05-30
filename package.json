@@ -1,0 +1,12 @@
+{
+  "name": "01-github-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rodrigocostarcs/01-github-exlporer.git",
+  "author": "Rodrigo Costa <rodrigo.costa@credisis.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
