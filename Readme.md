@@ -7,3 +7,6 @@ Projeto Iniciado
   - yarn babel src/index.js --out-file dist/bundle.js (maneira para chamar o babel e converter o arquivo js com o babel)
 - instalar o babel para reconhecer código react "yarn add @babel/preset-react -D"
 - ".jsx" é a nomenclatura para quando usamos código html dentro de arquivos JS.
+- Para instalar o Webpack é usado "yarn add webpack webpack-cli  -D" - Webpack pega todas as importações de arquivos e transforma em um único arquivo compreendível pelo Browser.
+- yarn add babel-loader -D (é a integração entre o babel e o webpack)
+- Para executar o webpack é necessário criar o arquivo de configuração 'webpack.config.js' e usar o comando "yarn webpack"
